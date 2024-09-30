@@ -8,7 +8,7 @@ import { SITE } from "./src/config";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://xinyew.github.io",
+  site: "https://xinyew.github.io/",
   base: "/",
   integrations: [
     tailwind({
