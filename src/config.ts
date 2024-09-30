@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Xinye Wang",
   profile: "https://github.com/xinyew/",
   desc: "Temporary personal website for Xinye.",
-  title: "A Nerd",
+  title: "a Nerd",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
