@@ -9,6 +9,7 @@ import { SITE } from "./src/config";
 // https://astro.build/config
 export default defineConfig({
   site: "xinyew.github.io",
+  output: "static",
   integrations: [
     tailwind({
       applyBaseStyles: false,
